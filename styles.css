@@ -1,0 +1,25 @@
+p{
+    font-family: "Roboto", sans-serif;
+
+}
+
+h2{
+    font-family: "Roboto", sans-serif;
+}
+
+li{
+    font-family: "Roboto", sans-serif;
+}
+
+.bio-1{
+    font-family: "Roboto", sans-serif;
+}
+.bio-2{
+    color: #29240C;
+}
+
+.image-1{
+    width: 800px;
+    height: auto;
+    border-radius: 10px;
+}
